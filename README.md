@@ -32,6 +32,5 @@ Actuellement en 1ere année de cycle ingénieur informatique à l'[EILCO](http:/
 
 ## Contact 
 - 💼: [LinkedIn](https://linkedin.com/in/donamedenou) 
-- 🐙: [GitHub](https://github.com/Daryl-03)
 
 Toujours prêt à coder de nouveaux projets de dingue ! 🤘
