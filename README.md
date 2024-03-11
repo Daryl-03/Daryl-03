@@ -1,18 +1,10 @@
 # Daryl Medenou
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300"/>
-</p>
-
 ## Hey, c'est Daryl ! 👋
 
 Je suis un étudiant passionné par le code qui déchire 🔥
 
 Actuellement en 1ere année de cycle ingénieur informatique à l'[EILCO](http://www.eilco-Formation.fr), je vis et respire le développement logiciel.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3rgXBPgEKFjLYQ61Zm/giphy.gif" width="400"/>
-</p>
 
 ## Mes Armes de Destruction Massive 💥
 
@@ -30,9 +22,6 @@ Actuellement en 1ere année de cycle ingénieur informatique à l'[EILCO](http:/
 - API Backend: APIs REST et GraphQL (Node.js, Express, Spring)
 - Démineur: Jeu démineur en console (C)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o85xnoIXebk3xYx4Q/giphy.gif" width="400"/>
-</p>
 
 ## Certifications 🏆  
 
