@@ -1,36 +1,35 @@
 # Daryl Medenou
 
-## Hey, c'est Daryl ! 👋
+## Hey, it's Daryl! 👋
 
-Je suis un étudiant passionné par le code qui déchire 🔥
+I am a passionate student who loves to code! 🔥
 
-Actuellement en 1ere année de cycle ingénieur informatique à l'[EILCO](http://www.eilco-Formation.fr), je vis et respire le développement logiciel.
+Currently in the first year of the computer engineering program at [EILCO](http://www.eilco-Formation.fr), I live and breathe software development.
 
-## Mes Armes de Destruction Massive 💥
+## My Weapons of Mass Destruction 💥
 
-- Languages: C, Java, JavaScript, Python, PHP, HTML, CSS 
-- Frameworks: Spring Boot, Laravel, Express.js, Angular, Next.js
-- BDD: MySQL, PostgreSQL, Oracle  
-- Autre: API RESTful, GraphQL, Flutter (mobile)
-- Méthodologies: Gestion de projet agile, Travail d'équipe  
+- **Languages:** C, Java, JavaScript, Python, PHP, HTML, CSS
+- **Frameworks:** Spring Boot, Laravel, Express.js, Angular, Next.js
+- **Databases:** MySQL, PostgreSQL, Oracle
+- **Others:** RESTful API, GraphQL, Flutter (mobile)
+- **Methodologies:** Agile project management, Teamwork
 
-## Quelques Projets 🚀
+## Some Projects 🚀
 
-- TodoWebApp: App de gestion de tâches (Angular, TypeScript)
-- E-commerce: Plateforme e-commerce (Java EE) 
-- Gestion Scolaire: Appli de gestion pour écoles (Java, JavaFX)
-- API Backend: APIs REST et GraphQL (Node.js, Express, Spring)
-- Démineur: Jeu démineur en console (C)
+- **TodoWebApp:** Task management app (Angular, TypeScript)
+- **E-commerce:** E-commerce platform (Java EE)
+- **School Management:** Management app for schools (Java, JavaFX)
+- **API Backend:** REST and GraphQL APIs (Node.js, Express, Spring)
+- **Minesweeper:** Console-based Minesweeper game (C)
 
+## Certifications 🏆
 
-## Certifications 🏆  
-
-- Scrum Fundamentals Certified  
+- Scrum Fundamentals Certified
 - Java Certification (Codingame)
-- CCNA Routing & Switching  
+- CCNA Routing & Switching
 - C Certification (Codingame)
 
-## Contact 
-- 💼: [LinkedIn](https://linkedin.com/in/donamedenou) 
+## Contact
+- 💼: [LinkedIn](https://linkedin.com/in/donamedenou)
 
-Toujours prêt à coder de nouveaux projets de dingue ! 🤘
+Always ready to code some awesome new projects! 🤘
