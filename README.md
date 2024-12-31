@@ -1,4 +1,4 @@
-# Daryl Medenou
+# Daryl
 
 ## Hey, it's Daryl! 👋
 
